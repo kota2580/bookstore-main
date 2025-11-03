@@ -8,7 +8,7 @@
       </div>
       <p><i class="fas fa-phone"></i> 1234567890</p>
       <p><i class="fas fa-envelope"></i> bookiee@gmail.com</p>
-      <p><i class="fas fa-map-marker-alt"></i> Mumbai, India - 902839</p>
+      <p><i class="fas fa-map-marker-alt"></i> Hyderabad, India - 500007</p>
       <p><i class="fa-solid fa-shop"></i> Shop Timings : 9am - 9pm</p>
     </div>
 
