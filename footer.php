@@ -28,5 +28,5 @@
       <a href="orders.php">Orders</a>
     </div>
   </div>
-  <p>Copyright <i class="fa-regular fa-copyright"></i> 2023 <span>Tanisha Amin | All Rights Reserved.</span></p>
+  <p>Copyright <i class="fa-regular fa-copyright"></i> 2025 <span>Narender Kota | All Rights Reserved.</span></p>
 </section>
